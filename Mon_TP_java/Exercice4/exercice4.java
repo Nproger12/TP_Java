@@ -14,7 +14,7 @@ public class exercice4 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        Livre L = new Livre("Adres","Le sexe c'et bon",300,65646);
+        Livre L = new Livre("Adres","La vie c'est du bon",300,65646);
         Livre L2 = new Livre();
         Livre L3 = new Livre("Adres","Le sexe c'et bon",300,87965);
         L2.setNbPages(300);
